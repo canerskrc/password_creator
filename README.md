@@ -1,6 +1,10 @@
 # password_creator
 
+****************************************
+pip install random
+pip install string
 
+****************************************
 Random Password Creator with Python.
 
 Random and String libraries are used in this program. The working principle of the program is as follows:
