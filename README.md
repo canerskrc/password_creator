@@ -1,7 +1,7 @@
 # password_creator
 
 ****************************************
-pip install random
+pip install random //
 pip install string
 
 ****************************************
